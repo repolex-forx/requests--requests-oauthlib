@@ -1,0 +1,11 @@
+{
+  "org": "requests",
+  "repo": "requests-oauthlib",
+  "versions": [
+    {
+      "commit": "f33dac32bd065b835b34e7f0a48025700aae1e31",
+      "tag": "",
+      "parsed_at": "2026-10-12T05:23:37.415588+00:00"
+    }
+  ]
+}
