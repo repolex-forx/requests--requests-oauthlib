@@ -1,0 +1,7 @@
+[2026-10-12T05:22:25Z] === AST ITERATION 1 START | repo=requests/requests-oauthlib sha=f33dac32 ===
+[2026-10-12T05:22:25Z] [iter=1] PHASE START: ast repo=requests/requests-oauthlib sha=f33dac32
+[2026-10-12T05:22:25Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T05:22:33Z] [iter=1] AST chunks built count=1 triples=127398
+[2026-10-12T05:22:33Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f33dac32bd065b835b34e7f0a48025700aae1e31/.complete
+[2026-10-12T05:22:33Z] [iter=1] PHASE END: ast elapsed_s=8 elapsed_min=0.1
+[2026-10-12T05:22:33Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

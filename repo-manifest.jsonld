@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/requests/requests-oauthlib/commit/f33dac32bd065b835b34e7f0a48025700aae1e31",
       "git:hexsha": "f33dac32bd065b835b34e7f0a48025700aae1e31",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/requests/requests-oauthlib/commit/9a2007f3b7552255b3745e031bde2e566c695af5",
